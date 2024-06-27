@@ -11,8 +11,8 @@ const Navbar = () => {
                  <img
                     src="https://f2.toyhou.se/file/f2-toyhou-se/images/84191583_eX4THXno65fGzny.png"
                     alt="Logo"
-                    width="200"
-                    height="auto"
+                    width="100"
+                    height="100"
                   />
               </Link>
             </li>
