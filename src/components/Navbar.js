@@ -9,8 +9,10 @@ const Navbar = () => {
             <li>
               <Link className="h-color" href="/">
                  <img
-                    src="https://f2.toyhou.se/file/f2-toyhou-se/images/84191548_1b4onDcWpeqm9CG.png"
+                    src="https://f2.toyhou.se/file/f2-toyhou-se/images/84191583_eX4THXno65fGzny.png"
                     alt="Logo"
+                    width="200"
+                    height="auto"
                   />
               </Link>
             </li>
