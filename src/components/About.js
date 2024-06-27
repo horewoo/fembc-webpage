@@ -10,24 +10,24 @@ const About = () => {
         <div className="about-container">
           <div className="about-card">
             <div>
-              <h4 className="h-color">⚡ Commands</h4>
+              <h4 className="h-color">🌻 Personajes</h4>
               <p className="p-color">
-                We have more than 200 commands support in this bot.
+                Más de 100 personajes para utilizar, coleccionar y jugar.
               </p>
               <hr />
             </div>
             <div>
-              <h4 className="h-color">✉️ 24/7 Support</h4>
+              <h4 className="h-color">🍭 Encendido 24/7</h4>
               <p className="p-color">
-                The biggest support community server for the bot available for
-                you anytime.
+                Nos comprometemos a que el bot esté encendido todo
+el día todos los días para que lo utilices cuando quieras.
               </p>
               <hr />
             </div>
             <div>
-              <h4 className="h-color">✏️ Customization</h4>
+              <h4 className="h-color">🍓 Nuevos personajes</h4>
               <p className="p-color">
-                Fully customizable discord bot completely FREE!
+                Nuevos personajes con cada actualización.
               </p>
               <hr />
             </div>
@@ -35,7 +35,7 @@ const About = () => {
         </div>
         <p>
           <Link href="/commands" className="h-color no-decoration">
-            Check out Commands &rarr;
+            Ve como se ve en utilización. &rarr;
           </Link>
         </p>
 
