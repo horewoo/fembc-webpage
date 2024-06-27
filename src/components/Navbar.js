@@ -8,7 +8,10 @@ const Navbar = () => {
           <ul>
             <li>
               <Link className="h-color" href="/">
-                <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/84191548_1b4onDcWpeqm9CG.png" alt="LOGO">
+                 <img
+                    src="https://f2.toyhou.se/file/f2-toyhou-se/images/84191548_1b4onDcWpeqm9CG.png"
+                    alt="Logo"
+                  />
               </Link>
             </li>
           </ul>
